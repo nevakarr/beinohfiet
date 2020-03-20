@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oadaeceush.duidu101.com/sitemap.xml
